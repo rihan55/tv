@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="1 AFGHAN" tvg-logo="" group-title="AFGHAN [BDIX]", 1 AFGHAN
+https://bdix.myworldiptv.xyz/live/566667/5675666/1.ts
+#EXTINF:-1 tvg-id="" tvg-name="1TV HD AFG" tvg-logo="http://comet.watch:8880/images/f9953f5de08a29db359be1c3e29ca6c8.png" group-title="AFGHAN [BDIX]", 1TV HD AFG
+https://bdix.myworldiptv.xyz/live/566667/5675666/2.ts
+#EXTINF:-1 tvg-id="" tvg-name="AFG AMC TV" tvg-logo="" group-title="AFGHAN [BDIX]", AFG AMC TV
+https://bdix.myworldiptv.xyz/live/566667/5675666/2575.ts
